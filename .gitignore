@@ -1,0 +1,32 @@
+### Flutter ###
+.dart_tool/
+.flutter-plugins
+.flutter-plugin-dependencies
+.metadata
+*.iml
+/ios/Flutter/App.framework/
+/ios/Flutter/Flutter.framework/
+
+### Build Artifacts ###
+/build/
+
+### Android Studio ###
+.gradle
+/.idea
+/local.properties
+/settings.gradle
+/keystore.jks
+/gradlew
+/gradlew.bat
+/captures/
+
+### macOS ###
+.DS_Store
+
+### Logs and temp files ###
+*.log
+tmp*
+temp/
+
+### VS Code ###
+.vscode/
